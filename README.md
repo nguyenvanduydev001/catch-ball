@@ -20,5 +20,5 @@ Trong trò chơi, hãy cố gắng bắt Bóng bằng tay (không quan trọng l
 1. Trong trường hợp thiếu một thư viện cụ thể, hãy đảm bảo thư viện nào bị thiếu và thử Cài đặt nó (có thể là bất kỳ một trong những "cvzone, mediapipe, opencv và pygame")<br>
 1. Nếu bạn gặp sự cố khi chơi trò chơi, chẳng hạn như tốc độ giảm hoặc trò chơi không hoạt động bình thường, hãy thử khởi động lại trò chơi để có thể giải quyết được sự cố.<br>
    
-[Live demo]()
+[Live demo](https://nguyenvanduydev001.github.io/catch-ball/)
 
